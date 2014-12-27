@@ -1,0 +1,13 @@
+c:\users\lukii\documents\visual studio 2013\Projects\DrawingINotifyPropertyChanged\DrawingINotifyPropertyChanged\bin\Debug\DrawingINotifyPropertyChanged.exe.config
+c:\users\lukii\documents\visual studio 2013\Projects\DrawingINotifyPropertyChanged\DrawingINotifyPropertyChanged\bin\Debug\DrawingINotifyPropertyChanged.exe
+c:\users\lukii\documents\visual studio 2013\Projects\DrawingINotifyPropertyChanged\DrawingINotifyPropertyChanged\bin\Debug\DrawingINotifyPropertyChanged.pdb
+c:\users\lukii\documents\visual studio 2013\Projects\DrawingINotifyPropertyChanged\DrawingINotifyPropertyChanged\obj\Debug\DrawingINotifyPropertyChanged.csprojResolveAssemblyReference.cache
+c:\users\lukii\documents\visual studio 2013\Projects\DrawingINotifyPropertyChanged\DrawingINotifyPropertyChanged\obj\Debug\MainWindow.baml
+c:\users\lukii\documents\visual studio 2013\Projects\DrawingINotifyPropertyChanged\DrawingINotifyPropertyChanged\obj\Debug\MainWindow.g.cs
+c:\users\lukii\documents\visual studio 2013\Projects\DrawingINotifyPropertyChanged\DrawingINotifyPropertyChanged\obj\Debug\App.g.cs
+c:\users\lukii\documents\visual studio 2013\Projects\DrawingINotifyPropertyChanged\DrawingINotifyPropertyChanged\obj\Debug\DrawingINotifyPropertyChanged_MarkupCompile.cache
+c:\users\lukii\documents\visual studio 2013\Projects\DrawingINotifyPropertyChanged\DrawingINotifyPropertyChanged\obj\Debug\DrawingINotifyPropertyChanged.g.resources
+c:\users\lukii\documents\visual studio 2013\Projects\DrawingINotifyPropertyChanged\DrawingINotifyPropertyChanged\obj\Debug\DrawingINotifyPropertyChanged.Properties.Resources.resources
+c:\users\lukii\documents\visual studio 2013\Projects\DrawingINotifyPropertyChanged\DrawingINotifyPropertyChanged\obj\Debug\DrawingINotifyPropertyChanged.csproj.GenerateResource.Cache
+c:\users\lukii\documents\visual studio 2013\Projects\DrawingINotifyPropertyChanged\DrawingINotifyPropertyChanged\obj\Debug\DrawingINotifyPropertyChanged.exe
+c:\users\lukii\documents\visual studio 2013\Projects\DrawingINotifyPropertyChanged\DrawingINotifyPropertyChanged\obj\Debug\DrawingINotifyPropertyChanged.pdb
